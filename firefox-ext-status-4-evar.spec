@@ -1,7 +1,7 @@
 Summary:	Firefox extension for customizing the status panel
 Name:		firefox-ext-status-4-evar
 Version:	2015.02.06.23
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Networking/WWW
 Url:		https://addons.mozilla.org/en-US/firefox/addon/status-4-evar
